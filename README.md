@@ -1,4 +1,4 @@
-🚀 MPS Playwright UI Automation Framework
+🚀 Playwright UI Automation Framework
 A lightweight and scalable UI automation framework built using Playwright for the MPS Application, designed for ease of use, fast execution, and rich reporting via Allure.
 
 📦 Features
