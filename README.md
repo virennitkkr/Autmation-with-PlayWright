@@ -17,14 +17,6 @@ Test Runner: Playwright Test
 Reporting: Allure
 CI/CD: GitHub Actions / Jenkins (optional)
 
-📁 Project Structure
-├── tests/                # Test specs
-├── pages/                # Page objects
-├── utils/                # Helpers and utilities
-├── reports/              # Allure reports
-├── playwright.config.ts  # Playwright configuration
-└── README.md             # Project documentation
-
 🚀 Getting Started:-
 # Install dependencies
 npm install
@@ -36,3 +28,8 @@ npx playwright test
 npx allure generate reports/allure-results --clean -o reports/allure-report
 npx allure open reports/allure-report
 
+📸 Sample Report
+Allure provides a rich, interactive report with test steps, screenshots, and logs.
+
+🤝 Contributing
+Feel free to fork, raise issues, or submit PRs to improve the framework!
